@@ -1,0 +1,16 @@
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.csproj.AssemblyReference.cache
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.Form1.resources
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.Properties.Resources.resources
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.csproj.GenerateResource.cache
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.csproj.CoreCompileInputs.cache
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\RPCTUTORIAL.exe.config
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\RPCTUTORIAL.exe
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\RPCTUTORIAL.pdb
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\DiscordRPC.dll
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\DiscordRPC.pdb
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\DiscordRPC.xml
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTOR.7ED3DDEE.Up2Date
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.exe
+C:\Users\dexte\Source\Repos\RPCTUTORIAL\RPCTUTORIAL\obj\Debug\RPCTUTORIAL.pdb
