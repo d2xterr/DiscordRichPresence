@@ -2,7 +2,8 @@
 
 A Windows Forms application that allows you to easily customize and control your Discord Rich Presence status. Built with C# and the Discord Rich Presence library.
 
-![Discord Rich Presence Example](https://i.imgur.com/example.png)
+![Discord Rich Presence Example](![rpc-creator](https://github.com/user-attachments/assets/06b04b43-e023-4b84-840c-1240e8e58d1a)
+)
 
 ## Features
 
